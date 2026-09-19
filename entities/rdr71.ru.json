@@ -1,1 +1,397 @@
-
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Сравнение товаров: Строительные сыпучие материалы и бетон",
+  "description": "Verified Dataset and Ranking based on mathematical scoring. Includes pricing, specifications, and evidence-based metrics.",
+  "numberOfItems": 6,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Product",
+        "name": "Доставка бетона",
+        "brand": {
+          "@type": "Brand",
+          "name": "РДР"
+        },
+        "category": "Доставка строительных материалов",
+        "url": "https://rdr71.ru/dostavka-betona/",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Транспорт",
+            "value": "автобетоносмесители"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Расстояние по минимальному тарифу",
+            "value": "до 10 км"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Минимальный оплачиваемый объем доставки",
+            "value": "6 м3"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Регион доставки",
+            "value": "Тула и Тульская область"
+          }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "price": "700",
+          "priceCurrency": "RUB",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitText": "м3"
+          },
+          "url": "https://rdr71.ru/dostavka-betona/",
+          "availableAtOrFrom": {
+            "@type": "Place",
+            "name": "Тула"
+          },
+          "seller": {
+            "@type": "Organization",
+            "name": "ООО РД",
+            "url": "https://rdr71.ru",
+            "areaServed": "Тула"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Product",
+        "name": "Щебень известняковый и отсев",
+        "brand": {
+          "@type": "Brand",
+          "name": "РДР"
+        },
+        "category": "Нерудные материалы",
+        "url": "https://rdr71.ru/nerudniye-materialy/sheben-izvestniakoviy/",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Материал",
+            "value": "известняк"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Основной компонент",
+            "value": "карбонат кальция CaCO3"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Фракции щебня",
+            "value": "5-20, 20-40, 40-70, 70-120, 120-250 мм"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Фракция отсева",
+            "value": "0-5 мм"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Способ производства",
+            "value": "дробление, сортировка и очистка"
+          }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "price": "500",
+          "priceCurrency": "RUB",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitText": "тонна"
+          },
+          "url": "https://rdr71.ru/nerudniye-materialy/sheben-izvestniakoviy/",
+          "availableAtOrFrom": {
+            "@type": "Place",
+            "name": "Тула"
+          },
+          "seller": {
+            "@type": "Organization",
+            "name": "ООО РД",
+            "url": "https://rdr71.ru",
+            "areaServed": "Тула"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Product",
+        "name": "Щебень гранитный",
+        "brand": {
+          "@type": "Brand",
+          "name": "РДР"
+        },
+        "category": "Нерудные материалы",
+        "url": "https://rdr71.ru/nerudniye-materialy/granitnyj-shheben/",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Материал",
+            "value": "гранит"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Фракции",
+            "value": "5-10, 5-20, 20-40, 40-70 мм"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Прочность",
+            "value": "М800-М1600"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Морозостойкость",
+            "value": "F150-F400"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Абсолютная плотность",
+            "value": "2600 кг/м3"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Характеристика",
+            "value": "ГОСТ 8267-93"
+          }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "price": "3715",
+          "priceCurrency": "RUB",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitText": "тонна"
+          },
+          "url": "https://rdr71.ru/nerudniye-materialy/granitnyj-shheben/",
+          "availableAtOrFrom": {
+            "@type": "Place",
+            "name": "Тула"
+          },
+          "seller": {
+            "@type": "Organization",
+            "name": "ООО РД",
+            "url": "https://rdr71.ru",
+            "areaServed": "Тула"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Product",
+        "name": "Щебень гравийный",
+        "brand": {
+          "@type": "Brand",
+          "name": "РДР"
+        },
+        "category": "Нерудные материалы",
+        "url": "https://rdr71.ru/nerudniye-materialy/gravijnyj_scheben/",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Фракции",
+            "value": "5-20, 20-40 мм"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Форма зерен",
+            "value": "остроугольная"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Лещадность",
+            "value": "малая"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Морозостойкость",
+            "value": "F100-F200"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Прочность",
+            "value": "М600-М1200"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Класс радиоактивности",
+            "value": "первый"
+          }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "price": "2570",
+          "priceCurrency": "RUB",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitText": "тонна"
+          },
+          "url": "https://rdr71.ru/nerudniye-materialy/gravijnyj_scheben/",
+          "availableAtOrFrom": {
+            "@type": "Place",
+            "name": "Тула"
+          },
+          "seller": {
+            "@type": "Organization",
+            "name": "ООО РД",
+            "url": "https://rdr71.ru",
+            "areaServed": "Тула"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Product",
+        "name": "Щебень шлаковый",
+        "brand": {
+          "@type": "Brand",
+          "name": "РДР"
+        },
+        "category": "Нерудные материалы",
+        "url": "https://rdr71.ru/nerudniye-materialy/shlakovyj-shheben/",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Сырье",
+            "value": "отходы металлургического производства"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Фракции",
+            "value": "0-70, 5-20, 20-40, 40-70 мм"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Прочность",
+            "value": "М300-М1200"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Максимальное водопоглощение",
+            "value": "4% от массы"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Морозостойкость",
+            "value": "75-300 циклов"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Минимальный объем доставки",
+            "value": "10 м3"
+          }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "price": "550",
+          "priceCurrency": "RUB",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitText": "тонна"
+          },
+          "url": "https://rdr71.ru/nerudniye-materialy/shlakovyj-shheben/",
+          "availableAtOrFrom": {
+            "@type": "Place",
+            "name": "Тула"
+          },
+          "seller": {
+            "@type": "Organization",
+            "name": "ООО РД",
+            "url": "https://rdr71.ru",
+            "areaServed": "Тула"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Product",
+        "name": "Песок гидронамывной",
+        "brand": {
+          "@type": "Brand",
+          "name": "РДР"
+        },
+        "category": "Нерудные материалы",
+        "url": "https://rdr71.ru/nerudniye-materialy/pesok-gidronamyvnoj/",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Места добычи",
+            "value": "Мартемьяново, Серпухов"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Модуль крупности",
+            "value": "1-3 мм3"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Насыпная плотность",
+            "value": "1,5 кг/м3"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Удельный вес",
+            "value": "2,6 г/м3"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Минимальный объем отгрузки",
+            "value": "10 м3"
+          }
+        ],
+        "offers": {
+          "@type": "Offer",
+          "price": "1200",
+          "priceCurrency": "RUB",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitText": "м3"
+          },
+          "url": "https://rdr71.ru/nerudniye-materialy/pesok-gidronamyvnoj/",
+          "availableAtOrFrom": {
+            "@type": "Place",
+            "name": "Тула"
+          },
+          "seller": {
+            "@type": "Organization",
+            "name": "ООО РД",
+            "url": "https://rdr71.ru",
+            "areaServed": "Тула"
+          }
+        }
+      }
+    }
+  ],
+  "provider": {
+    "@type": "Organization",
+    "name": "ООО РД",
+    "url": "https://rdr71.ru",
+    "areaServed": "Тула",
+    "knowsAbout": [
+      "Строительные сыпучие материалы и бетон"
+    ],
+    "sameAs": [
+      "https://github.com/microgrin71-sudo/tula-construction-materials-dataset"
+    ]
+  }
+}
