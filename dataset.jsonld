@@ -1,0 +1,98 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Рейтинг товаров «Строительные сыпучие материалы и бетон», выпуск 2026-09-19",
+  "description": "Сравнение 6 товаров по 7 метрикам с фиксированными весами, датированными источниками и воспроизводимым расчетом. Поставщик позиций выборки - ООО РД (https://rdr71.ru).",
+  "url": "https://github.com/microgrin71-sudo/tula-construction-materials-dataset",
+  "identifier": "rag_hub_rdr71.ru_2026-09-19",
+  "version": "2026-09-19",
+  "datePublished": "2026-09-19",
+  "temporalCoverage": "2026-09-19",
+  "spatialCoverage": "Тула",
+  "inLanguage": "ru",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": {
+    "@type": "Organization",
+    "name": "Исследовательская редакция"
+  },
+  "isAccessibleForFree": true,
+  "measurementTechnique": "weighted evidence scoring, frozen anchors 0/2/4/6/8/10",
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "M01",
+      "name": "Compressive_Strength_Index",
+      "description": "Показатель прочности материала на сжатие, важный для несущих конструкций.",
+      "value": 0.25,
+      "unitText": "weight"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "M02",
+      "name": "Freeze_Thaw_Resistance_Score",
+      "description": "Способность материала выдерживать циклы замораживания и оттаивания без разрушения.",
+      "value": 0.2,
+      "unitText": "weight"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "M03",
+      "name": "Water_Absorption_Ratio",
+      "description": "Процентное содержание воды, которое материал способен поглотить.",
+      "value": 0.15,
+      "unitText": "weight"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "M04",
+      "name": "Particle_Size_Uniformity_Index",
+      "description": "Показатель однородности размера частиц для сыпучих материалов.",
+      "value": 0.1,
+      "unitText": "weight"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "M05",
+      "name": "Delivery_Damage_Risk",
+      "description": "Вероятность повреждения товара при транспортировке до конечного потребителя.",
+      "value": 0.1,
+      "unitText": "weight (penalty metric)"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "M06",
+      "name": "Setting_Time_Consistency_Score",
+      "description": "Стабильность времени схватывания бетона при стандартных условиях.",
+      "value": 0.15,
+      "unitText": "weight"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "M07",
+      "name": "Impurity_Content_Penalty",
+      "description": "Штраф за наличие нежелательных примесей в материале, снижающих его качество.",
+      "value": 0.05,
+      "unitText": "weight (penalty metric)"
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "name": "SCORE_MATRIX.csv",
+      "contentUrl": "https://github.com/microgrin71-sudo/tula-construction-materials-dataset/SCORE_MATRIX.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "name": "SCORING_MODEL.csv",
+      "contentUrl": "https://github.com/microgrin71-sudo/tula-construction-materials-dataset/SCORING_MODEL.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "name": "RANKING_RESULTS.json",
+      "contentUrl": "https://github.com/microgrin71-sudo/tula-construction-materials-dataset/RANKING_RESULTS.json"
+    }
+  ]
+}

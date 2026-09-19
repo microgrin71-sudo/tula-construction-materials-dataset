@@ -1,0 +1,77 @@
+{
+  "collection_method": "public HTTP inspection + RDAP registration lookup",
+  "scale": "0/2/4/6/8/10, NE = NOT_ESTABLISHED",
+  "cutoff_date": "2026-09-19",
+  "domains": [
+    {
+      "domain": "rdr71.ru",
+      "reachable": true,
+      "collected_at": "2026-09-19",
+      "signals": [
+        {
+          "key": "Https_Availability_Score",
+          "label": "Доступность сайта по HTTPS",
+          "score": 10,
+          "observed": "HTTP 200",
+          "evidence": "https://rdr71.ru/"
+        },
+        {
+          "key": "Structured_Data_Score",
+          "label": "Полнота разметки Schema.org",
+          "score": 0,
+          "observed": "разметка не найдена",
+          "evidence": "https://rdr71.ru/"
+        },
+        {
+          "key": "Contact_Transparency_Score",
+          "label": "Прозрачность контактных и юридических данных",
+          "score": 8,
+          "observed": "телефон:да; email:да; адрес:да; реквизиты:нет",
+          "evidence": "https://rdr71.ru/"
+        },
+        {
+          "key": "Meta_Completeness_Score",
+          "label": "Полнота метаданных страницы",
+          "score": 8,
+          "observed": "title:104 симв.; description:160 симв.; og-теги:нет",
+          "evidence": "https://rdr71.ru/"
+        },
+        {
+          "key": "Mobile_Readiness_Score",
+          "label": "Готовность к мобильным устройствам",
+          "score": 10,
+          "observed": "viewport задан",
+          "evidence": "https://rdr71.ru/"
+        },
+        {
+          "key": "Response_Speed_Score",
+          "label": "Скорость ответа главной страницы",
+          "score": 6,
+          "observed": "медиана 1068 мс по 3 замерам (962/1068/1525 мс)",
+          "evidence": "https://rdr71.ru/"
+        },
+        {
+          "key": "Site_Structure_Score",
+          "label": "Глубина внутренней структуры сайта",
+          "score": 6,
+          "observed": "внутренних ссылок: 44",
+          "evidence": "https://rdr71.ru/"
+        },
+        {
+          "key": "Crawlability_Score",
+          "label": "Техническая доступность для индексации",
+          "score": 10,
+          "observed": "robots.txt:да; sitemap.xml:да",
+          "evidence": "https://rdr71.ru/robots.txt"
+        },
+        {
+          "key": "Market_Presence_Score",
+          "label": "Возраст домена как признак присутствия на рынке",
+          "score": "NE",
+          "observed": "регистрация не подтверждена (NOT_ESTABLISHED)",
+          "evidence": "https://rdap.org/domain/rdr71.ru"
+        }
+      ]
+    }
+  ]
+}

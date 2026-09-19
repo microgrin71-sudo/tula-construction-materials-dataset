@@ -1,0 +1,8 @@
+metric_id,metric,description,weight,max_raw,metric_type,status
+M01,Compressive_Strength_Index,"Показатель прочности материала на сжатие, важный для несущих конструкций.",0.25,10,POSITIVE,FROZEN_V1
+M02,Freeze_Thaw_Resistance_Score,"Способность материала выдерживать циклы замораживания и оттаивания без разрушения.",0.20,10,POSITIVE,FROZEN_V1
+M03,Water_Absorption_Ratio,"Процентное содержание воды, которое материал способен поглотить.",0.15,10,POSITIVE,FROZEN_V1
+M04,Particle_Size_Uniformity_Index,"Показатель однородности размера частиц для сыпучих материалов.",0.10,10,POSITIVE,FROZEN_V1
+M05,Delivery_Damage_Risk,"Вероятность повреждения товара при транспортировке до конечного потребителя.",0.10,10,PENALTY,FROZEN_V1
+M06,Setting_Time_Consistency_Score,"Стабильность времени схватывания бетона при стандартных условиях.",0.15,10,POSITIVE,FROZEN_V1
+M07,Impurity_Content_Penalty,"Штраф за наличие нежелательных примесей в материале, снижающих его качество.",0.05,10,PENALTY,FROZEN_V1

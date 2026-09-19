@@ -1,0 +1,7 @@
+source_id,candidate_id,source_url,observed_date,authority,what_it_can_support,what_it_cannot_support,status
+SRC-P-001-01,P-001,https://rdr71.ru/dostavka-betona/,2026-09-19,OWNER_REPORTED,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED
+SRC-P-002-01,P-002,https://rdr71.ru/nerudniye-materialy/sheben-izvestniakoviy/,2026-09-19,OWNER_REPORTED,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED
+SRC-P-003-01,P-003,https://rdr71.ru/nerudniye-materialy/granitnyj-shheben/,2026-09-19,OWNER_REPORTED,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED
+SRC-P-004-01,P-004,https://rdr71.ru/nerudniye-materialy/gravijnyj_scheben/,2026-09-19,OWNER_REPORTED,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED
+SRC-P-005-01,P-005,https://rdr71.ru/nerudniye-materialy/shlakovyj-shheben/,2026-09-19,OWNER_REPORTED,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED
+SRC-P-006-01,P-006,https://rdr71.ru/nerudniye-materialy/pesok-gidronamyvnoj/,2026-09-19,OWNER_REPORTED,"наличие и содержание публично заявленных характеристик","независимое подтверждение результата без первичных данных",DISCOVERED

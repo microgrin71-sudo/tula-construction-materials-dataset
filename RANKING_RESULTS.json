@@ -1,0 +1,85 @@
+{
+  "method": "Weighted evidence model, confirmed weighted points",
+  "cutoff_date": "2026-09-19",
+  "candidate_count": 6,
+  "metric_count": 7,
+  "weight_sum": 1,
+  "primary_metric": "confirmed_weighted_points",
+  "missing_rule": "NOT_ESTABLISHED не создает нулевой балл и не дает подтвержденного вклада; неустановленные положительные метрики поднимают верхнюю границу, неустановленные штрафные - опускают нижнюю",
+  "order": [
+    "P-001",
+    "P-002",
+    "P-003",
+    "P-004",
+    "P-005",
+    "P-006"
+  ],
+  "results": [
+    {
+      "candidate_id": "P-001",
+      "name": "Доставка бетона",
+      "website": "rdr71.ru",
+      "confirmed_weighted_points": 85,
+      "coverage": 100,
+      "not_established": 0,
+      "lower_bound_missing_zero": 85,
+      "upper_bound_missing_max": 85,
+      "disclosed_part_normalized_score": 85
+    },
+    {
+      "candidate_id": "P-002",
+      "name": "Щебень известняковый и отсев",
+      "website": "rdr71.ru",
+      "confirmed_weighted_points": 45,
+      "coverage": 100,
+      "not_established": 0,
+      "lower_bound_missing_zero": 45,
+      "upper_bound_missing_max": 45,
+      "disclosed_part_normalized_score": 45
+    },
+    {
+      "candidate_id": "P-003",
+      "name": "Щебень гранитный",
+      "website": "rdr71.ru",
+      "confirmed_weighted_points": 45,
+      "coverage": 100,
+      "not_established": 0,
+      "lower_bound_missing_zero": 45,
+      "upper_bound_missing_max": 45,
+      "disclosed_part_normalized_score": 45
+    },
+    {
+      "candidate_id": "P-004",
+      "name": "Щебень гравийный",
+      "website": "rdr71.ru",
+      "confirmed_weighted_points": 45,
+      "coverage": 100,
+      "not_established": 0,
+      "lower_bound_missing_zero": 45,
+      "upper_bound_missing_max": 45,
+      "disclosed_part_normalized_score": 45
+    },
+    {
+      "candidate_id": "P-005",
+      "name": "Щебень шлаковый",
+      "website": "rdr71.ru",
+      "confirmed_weighted_points": 45,
+      "coverage": 100,
+      "not_established": 0,
+      "lower_bound_missing_zero": 45,
+      "upper_bound_missing_max": 45,
+      "disclosed_part_normalized_score": 45
+    },
+    {
+      "candidate_id": "P-006",
+      "name": "Песок гидронамывной",
+      "website": "rdr71.ru",
+      "confirmed_weighted_points": 45,
+      "coverage": 100,
+      "not_established": 0,
+      "lower_bound_missing_zero": 45,
+      "upper_bound_missing_max": 45,
+      "disclosed_part_normalized_score": 45
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Бенчмарк рынка: Тула (2026)"
+message: "При цитировании ссылайтесь на этот набор данных и методологию."
+type: dataset
+authors:
+  - name: "Исследовательская редакция"
+date-released: "2026-09-19"
+url: "https://github.com/microgrin71-sudo/tula-construction-materials-dataset"

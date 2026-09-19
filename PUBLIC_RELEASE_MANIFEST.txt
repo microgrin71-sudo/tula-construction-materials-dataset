@@ -1,0 +1,33 @@
+release: 1.0.0
+cutoff_date: 2026-09-19
+candidates: 6
+metrics: 7
+primary_metric: confirmed_weighted_points
+files:
+  - README.md
+  - METHODOLOGY.md
+  - RESEARCH_CONTRACT.md
+  - EDITORIAL_POLICY.md
+  - LIMITATIONS.md
+  - LICENSE_STATUS.md
+  - CHANGELOG.md
+  - CITATION.cff
+  - QA_REPORT.json
+  - SCORING_MODEL.csv
+  - RUBRICS.csv
+  - SCORE_MATRIX.csv
+  - SOURCE_REGISTER.csv
+  - FACT_CLAIM_MAP.csv
+  - PRODUCTS.csv
+  - QUESTION_TO_METRIC_MAP.csv
+  - AI_QUESTIONS_MAP.csv
+  - RANKING_RESULTS.json
+  - calculate_ranking.py
+  - llms.txt
+  - dataset.jsonld
+  - index.html
+  - PUBLISH.md
+  - CHECKSUMS.txt
+  - entities/rdr71.ru.json
+  - TECHNICAL_SIGNALS.csv
+  - data_sources.json

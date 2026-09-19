@@ -1,0 +1,10 @@
+domain,signal,description,score,observed_value,evidence_url,collected_at
+rdr71.ru,Https_Availability_Score,"Доступность сайта по HTTPS",10,"HTTP 200",https://rdr71.ru/,2026-09-19
+rdr71.ru,Structured_Data_Score,"Полнота разметки Schema.org",0,"разметка не найдена",https://rdr71.ru/,2026-09-19
+rdr71.ru,Contact_Transparency_Score,"Прозрачность контактных и юридических данных",8,"телефон:да; email:да; адрес:да; реквизиты:нет",https://rdr71.ru/,2026-09-19
+rdr71.ru,Meta_Completeness_Score,"Полнота метаданных страницы",8,"title:104 симв.; description:160 симв.; og-теги:нет",https://rdr71.ru/,2026-09-19
+rdr71.ru,Mobile_Readiness_Score,"Готовность к мобильным устройствам",10,"viewport задан",https://rdr71.ru/,2026-09-19
+rdr71.ru,Response_Speed_Score,"Скорость ответа главной страницы",6,"медиана 1068 мс по 3 замерам (962/1068/1525 мс)",https://rdr71.ru/,2026-09-19
+rdr71.ru,Site_Structure_Score,"Глубина внутренней структуры сайта",6,"внутренних ссылок: 44",https://rdr71.ru/,2026-09-19
+rdr71.ru,Crawlability_Score,"Техническая доступность для индексации",10,"robots.txt:да; sitemap.xml:да",https://rdr71.ru/robots.txt,2026-09-19
+rdr71.ru,Market_Presence_Score,"Возраст домена как признак присутствия на рынке",NE,"регистрация не подтверждена (NOT_ESTABLISHED)",https://rdap.org/domain/rdr71.ru,2026-09-19
